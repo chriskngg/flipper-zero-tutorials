@@ -25,7 +25,7 @@ let textbox = require("textbox");
 // ************
 // IMPORTANT: Be sure this matches your computer keyboard layout!!!
 // See /ext/badusb/assets/layouts/ for list of supported keyboard layouts.
-let layout = "en-US";
+let layout = "fr-FR";
 
 // Local file to store system information.
 let localTempFolder = "flipper";
